@@ -9,6 +9,10 @@ Here is the result:
 
 https://github.com/user-attachments/assets/70298e35-3e34-4bd5-9b57-1ca99ccde315
 
+For bonus points, I asked ChatGPT to create a matching watch face...stylish!
+![Screenshot 2025-02-04 103442](https://github.com/user-attachments/assets/b5e04872-78ee-461f-a324-480f739c3488)
+
+
 Here is the code:
 
 import { useState } from "react";
